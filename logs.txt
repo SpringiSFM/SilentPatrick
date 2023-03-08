@@ -1,0 +1,70 @@
+
+
+[1/28/2023, 6:03:07 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v16.19.0
+Bot Version: 1.5.3
+
+[1/28/2023, 6:03:08 PM] [CONFIG ERROR(S)] 
+EmbedColors is not a valid HEX Color!
+
+[1/28/2023, 6:03:08 PM] [READY] Bot is now ready!
+
+[1/28/2023, 6:03:42 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v16.19.0
+Bot Version: 1.5.3
+
+[1/28/2023, 6:03:43 PM] [READY] Bot is now ready!
+
+[1/28/2023, 6:20:35 PM] [SLASH COMMAND] Command: pin, User: Springi_SFM#8369
+
+[1/28/2023, 6:38:33 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v16.19.0
+Bot Version: 1.5.3
+
+[1/28/2023, 6:38:34 PM] [READY] Bot is now ready!
+
+[1/28/2023, 6:38:48 PM] [SLASH COMMAND] Command: test, User: Springi_SFM#8369
+
+[1/28/2023, 6:40:18 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v16.19.0
+Bot Version: 1.5.3
+
+[1/28/2023, 6:40:19 PM] [READY] Bot is now ready!
+
+[1/29/2023, 9:31:09 AM] [SLASH COMMAND] Command: panel, User: Springi_SFM#8369
+
+[1/29/2023, 12:56:42 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v16.19.0
+Bot Version: 1.5.3
+
+[1/29/2023, 12:56:44 PM] [READY] Bot is now ready!
+
+[1/29/2023, 12:58:59 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v16.19.0
+Bot Version: 1.5.3
+
+[1/29/2023, 12:59:01 PM] [READY] Bot is now ready!
+
+[1/29/2023, 4:17:27 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v16.19.0
+Bot Version: 1.5.3
+
+[1/29/2023, 4:17:29 PM] [READY] Bot is now ready!
+
+[1/29/2023, 4:17:38 PM] [SLASH COMMAND] Command: panel, User: Springi_SFM#8369
+
+[1/29/2023, 4:18:05 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v16.19.0
+Bot Version: 1.5.3
+
+[1/29/2023, 4:18:07 PM] [READY] Bot is now ready!
+
+[1/29/2023, 4:18:12 PM] [SLASH COMMAND] Command: panel, User: Springi_SFM#8369
+
+[1/29/2023, 4:19:25 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v16.19.0
+Bot Version: 1.5.3
+
+[1/29/2023, 4:19:26 PM] [READY] Bot is now ready!
+
+[1/29/2023, 4:19:34 PM] [SLASH COMMAND] Command: panel, User: Springi_SFM#8369
